@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWW1/cK5VcoFntpdWZnGjPeHnHgF9UDhNn6rzapnWcDwq9MHXOwj+2c+pBa7z06TBtwktGNpKpyiusTCbmQ56Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.olusanya\\source\\repos\\awslambda\\AWSServerless1\\AWSServerless1\\AWSServerless1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v.olusanya\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\v.olusanya\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\v.olusanya\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
